@@ -21,3 +21,5 @@ target = 5
 output = solution.two_sum(array, target)
 
 print(output)
+
+# output: [2, 0] -> which is true, because array[2] + array[0] = 4 + 1 = 5 -> 5 = 5(target)
